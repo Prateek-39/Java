@@ -1,0 +1,13 @@
+Design Patterns to Use in Designing a Digital Wallet System 
+
+Strategy Pattern: Used to define various payment methods (e.g., credit card, PayPal) 
+and allow users to choose between them dynamically.
+
+Command Pattern: Used to encapsulate actions like adding funds, transferring money, and checking balance 
+into command objects.
+
+Observer Pattern: Used to notify the user of any updates or changes to the 
+wallet balance or transactions.
+
+Factory Method Pattern: Used to create different types of wallets, such as physical or virtual wallets, 
+based on user preferences.
