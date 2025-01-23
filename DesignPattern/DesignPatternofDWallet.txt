@@ -1,6 +1,6 @@
-Design Patterns to Use in Designing a Digital Wallet System 
+Design Patterns to Use in Designing a Digital Wallet System (PhonePay) 
 
-Strategy Pattern: Used to define various payment methods (e.g., credit card, PayPal) 
+Strategy Pattern: Used to define various payment methods (e.g., Credit card, Debit card, UPI) 
 and allow users to choose between them dynamically.
 
 Command Pattern: Used to encapsulate actions like adding funds, transferring money, and checking balance 
